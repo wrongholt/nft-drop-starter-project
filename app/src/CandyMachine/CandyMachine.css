@@ -7,7 +7,9 @@
   display: flex;
   flex-direction: column;
 }
-
+.theButton {
+  align-items: center;
+}
 .gif-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -16,7 +18,9 @@
   margin: 0;
   padding: 20px 0 20px 0;
 }
-
+.mint-button {
+  width: 20vw;
+}
 .gif-grid .gif-item {
   display: flex;
   flex-direction: column;

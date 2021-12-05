@@ -1,0 +1,19 @@
+{
+  "name": "Beats of Yesterday Today",
+  "symbol": "",
+  "animation_url": "https://cloudflare-ipfs.com/ipfs/Qmcek5JHMBc6ashFDsT5NQm6XUVyFGqnmTXzZYHrgFgvx7",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cloudflare-ipfs.com/ipfs/Qmcek5JHMBc6ashFDsT5NQm6XUVyFGqnmTXzZYHrgFgvx7",
+        "type": "audio/mp3"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Cs5ZhZD85Z4HPcnyTwu6oG6Q9ZivXom4NQDmBXpre8qS",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "80s 90s Techno Rock Jam",
+  "symbol": "",
+  "animation_url": "https://cloudflare-ipfs.com/ipfs/QmdrjpicNygKyhGU63oSPPijv42RPD1CASQvRwEq64PxvH",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmdrjpicNygKyhGU63oSPPijv42RPD1CASQvRwEq64PxvH",
+        "type": "audio/mp3"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Cs5ZhZD85Z4HPcnyTwu6oG6Q9ZivXom4NQDmBXpre8qS",
+        "share": 100
+      }
+    ]
+  }
+}
